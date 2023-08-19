@@ -1,0 +1,19 @@
+Microsoft Windows [Version 10.0.22621.1992]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Hp> D:\Housepriceproject
+'D:\Housepriceproject' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Hp> d:
+
+D:\>cd \Housepriceproject
+
+D:\Housepriceproject> code.
+'code.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\Housepriceproject>code .
+
+D:\Housepriceproject>
+
